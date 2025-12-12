@@ -1,7 +1,7 @@
 // In this problem we will take an even aize array as input.
 // In which we will have equal number positive and negative elements.
 // And we have arrange it in alternative positive and negative elements.
-import java.util.*;
+import java.util.Scanner;
 public class alternative_pos_neg
 {
     public static void main(String[] args)
