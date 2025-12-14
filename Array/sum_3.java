@@ -97,7 +97,7 @@ public class sum_3
                     {
                         j++;
                     }
-                    while(j < k && arr[k] == arr[j+1])
+                    while(j < k && arr[k] == arr[k+1])
                     {
                         k--;
                     }
