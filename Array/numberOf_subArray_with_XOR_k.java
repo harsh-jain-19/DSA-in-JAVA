@@ -25,7 +25,7 @@ public class numberOf_subArray_with_XOR_k
         {
             xr = xr ^ arr[i];
             int x = xr ^ k;
-            if(x != null)
+            if(hashh.containsKey(x))
             {
                 cnt += hashh.get(x);
             }
