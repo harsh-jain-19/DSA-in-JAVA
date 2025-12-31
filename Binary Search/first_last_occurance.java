@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 public class first_last_occurance
 {
     public static void quick_sort(int [] arr, int lb, int ub)
