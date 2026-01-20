@@ -14,6 +14,7 @@ public class multiple_peak_element
         if(n == 1)
         {
             ans.add(arr[0]);
+            return ans;
         }
 
         if(arr[0] > arr[1])
