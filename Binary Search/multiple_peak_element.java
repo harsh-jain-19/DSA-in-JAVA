@@ -36,7 +36,7 @@ public class multiple_peak_element
                 ans.add(arr[mid]);
             }
 
-            else if(arr[mid] > arr[mid-1])
+            if(arr[mid] > arr[mid-1])
             {
                 low = mid + 1;
             }
