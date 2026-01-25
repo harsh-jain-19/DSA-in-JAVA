@@ -10,7 +10,7 @@
 // THE MAXIMUM NUMBER OF PAGES ASSINGNED TO ANY STUDENT IS MINIMUM.
 
 
-import java.util.Scanner;
+import java.util.*;
 public class allocate_books
 {
     public static int max_element(int [] arr, int n)
