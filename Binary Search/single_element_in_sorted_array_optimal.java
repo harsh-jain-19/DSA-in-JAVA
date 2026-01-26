@@ -1,5 +1,5 @@
 // TIME COMPLEXITY = O(log n)
-import java.util.Scanner;
+import java.util.*;
 public class single_element_in_sorted_array_optimal
 {
     public static void quick_sort(int [] arr, int lb, int ub)
