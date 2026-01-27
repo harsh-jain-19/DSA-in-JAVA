@@ -84,7 +84,7 @@ public class upper_bound
         System.out.println("Enter the element you are finding.");
         target = sc.nextInt();
         int ans = search(arr,n,target);
-        System.out.println("Lower Bound = "+ans);
+        System.out.println("Upper Bound = "+ans);
         // PRINTING
         for(int i = 0; i < n; i++)
         {
