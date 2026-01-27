@@ -6,7 +6,7 @@
 // So, we have to find a least capacity ship should have in order to ship all the packages in
 // given number of days.
 // TIME COMPLEXITY = O(log n)
-import java.util.Scanner;
+import java.util.*;
 public class ship_packages
 {
     public static int max_element(int [] arr, int n)
