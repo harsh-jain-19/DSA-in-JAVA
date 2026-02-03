@@ -1,6 +1,6 @@
 // It is same as first
 // But in this number of positive and negative elements will not be equal.
-import java.util.*;
+import java.util.Scanner;
 public class alternative_pos_neg_2
 {
     public static void main(String[] args)
