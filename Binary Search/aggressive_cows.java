@@ -5,7 +5,7 @@
 // So, The task is that we have to place one cow in each stall in such a manner
 // That (MINIMUM DISTANCE BETWEEN COWS) IS MAXIMUM.
 // TIME COMPLEXITY = O(log n)
-import java.util.*;
+import java.util.Scanner;
 public class aggressive_cows
 {
     public static void quick_sort(int [] arr, int lb, int ub)
