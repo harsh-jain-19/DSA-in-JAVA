@@ -5,7 +5,7 @@
 // Child with higher rating should have more candies then its nebhiour child.
 // You have to return total number of candies required.
 
-import java.util.*;
+import java.util.Scanner;
 public class candy
 {
     public static int candy_req(int ratings[])
