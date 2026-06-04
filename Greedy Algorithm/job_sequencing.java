@@ -6,7 +6,7 @@
 // You have to return maximum profit.
 
 import java.util.*;
-class Job
+class Jobs
 {
     int id,profit,deadline;
     Jobs(int id, int profit, int deadline)
