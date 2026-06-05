@@ -10,7 +10,7 @@ public class largest
         int [] arr = new int[n];
         for(int i = 0; i < n; i++)
         {
-            System.out.println("Enter the "+j+" element");
+            System.out.println("Enter the "+i+" element");
             arr[i] = sc.nextInt();
         }
         for(int i = 0; i < n; i++)
