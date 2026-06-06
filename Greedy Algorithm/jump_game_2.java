@@ -9,7 +9,7 @@ public class jump_game_2
         int n = nums.length;
         int jumps,l,r;
         jumps = l = r = 0;
-        while(r < -1)
+        while(r < n-1)
         {
             int farthest = 0;
             for(int i = l; i <= r; i++)
