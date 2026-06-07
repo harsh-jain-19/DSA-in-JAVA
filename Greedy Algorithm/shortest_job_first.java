@@ -10,7 +10,7 @@ public class shortest_job_first
         Arrays.sort(arr);
         int t,wt;
         t = wt = 0;
-        for(int i = 0; i < arr.length; i++)
+        for(int i = 0; j < arr.length; i++)
         {
             wt += t;
             t += arr[i];
