@@ -20,7 +20,7 @@ public class insert_intervals
         inter [] final_intervals = new inter[n+1];
         int i = 0;
         int k = 0;
-        while( i < n && intervals[i].end < new_interval.start)
+        while( i < x && intervals[i].end < new_interval.start)
         {
             final_intervals[k++] = intervals[i];
             i++;
