@@ -28,7 +28,7 @@ public class small_char_appear
             p = sc.next().charAt(0);
             System.out.println(p+" occurs "+hasharr[p-97]+" times in array");
             System.out.println("If you again want to check the ferquency of any alphabet then press 1");
-            
+            x = sc.nextInt();
         }
     }
 }
