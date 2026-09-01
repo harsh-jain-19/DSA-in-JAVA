@@ -1,5 +1,5 @@
 import java.util.*;
-public class sum_of_beauty_of_all_subString
+public class sum_of_beauty_of_all
 {
     public static int getMaxCount(int[] freq)
     {
