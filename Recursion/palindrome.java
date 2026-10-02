@@ -5,7 +5,7 @@ public class palindrome
     public static Boolean rev(int l)
     {
         int r;;
-        r = (5)-l-1;
+        r = (name.length())-l-1;
         if(l >= r)
         {
             return (true);
